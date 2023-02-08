@@ -2,3 +2,20 @@
     font-size: 25px;
     font-weight: bold;
 }
+#weatherStyle{
+    display: flex;
+    flex-direction: column;
+}
+#weatherHis{
+    display: flex;
+    flex-direction: column;
+    align-items: flex-start;
+}
+
+.navbar{
+    background: linear-gradient(to right,lightblue,blue,indigo);
+}
+.navbar-brand{
+    font-weight: bold;
+    color:black;
+}

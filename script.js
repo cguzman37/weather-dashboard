@@ -70,6 +70,6 @@ function fetchweather(city) {
                   oldDate = newDate;
               }
           }
-document.getElementById("weatherHis").innerHTML = weatherHTML;
+document.getElementById("weatherForecast").innerHTML = weatherHTML;
         })}
         
