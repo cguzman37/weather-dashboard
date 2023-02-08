@@ -19,3 +19,14 @@
     font-weight: bold;
     color:black;
 }
+#searchbtn{
+width: auto;
+}
+button {
+width: 25%;
+margin: 2px;
+}
+
+tbody{
+    background-color: whitesmoke;
+}
